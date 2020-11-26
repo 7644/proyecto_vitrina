@@ -3,7 +3,7 @@ body{
     margin:0px;
     font-family: 'Ubuntu', sans-serif;
     background-size: 100% 110%;
-    background-image: url("https://blogs.unitec.mx/hubfs/Blogs_UNITEC/Corp_Samara/cocinando-en-master-chef-receta-de-trufas-de-chocolate-3.jpeg");
+    background-image:url("https://img.freepik.com/foto-gratis/proceso-elaboracion-cookies_144627-22927.jpg?size=626&ext=jpg&ga=GA1.2.1928797167.1606424184");
     margin-right: 10%;
     margin-left: 10%;
     line-height: 1.5em;
@@ -158,9 +158,10 @@ header{
 
   /* css de sandra  contactanos*/
 .contactanos{
-    margin-top: 10px;
+    margin-top: 20px;
     height: 100%;
     background-image: url(https://blog.hubspot.es/hubfs/Descarga%20de%20fondos%20para%20pa%CC%81ginas%20web.jpg);
+    margin-bottom: 40px;
 }
 
 .contactanos form{
@@ -245,5 +246,30 @@ display: flex;
 #well{
     background-color:  rgba(31, 32, 2, 0.986);
 }
+/* quienes somos */
+.parrafos{
+ 
+    text-align: center;
+    aling-content: center;
+    justify-content: center;
+    margin-top: 60px;
+    padding: 30px;
+    background-color: rgba(189, 229, 255, 0.904);   
+   margin-left:4px;
+   margin-right:4px; 
+}
+.quienesSomos{
+    background-image: url("https://img.freepik.com/vector-gratis/personajes-personas-emoticonos-positivos-ilustracion_53876-43005.jpg?size=626&ext=jpg&ga=GA1.2.1928797167.1606424184");
+    height: 550px;
+    text-align: center;
+    margin-bottom: 40px;
+ 
+}
+.titulo3{
+    font-size: 27px;
+    
+}
+
+
 
 
